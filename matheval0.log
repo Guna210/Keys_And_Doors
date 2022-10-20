@@ -1,0 +1,156 @@
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Read the file using Scanner
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Red Vertical Door in the location 0,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Magenta Vertical Door in the location 0,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Yellow Vertical Door in the location 2,5
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Green Vertical Door in the location 4,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Blue Horizontal Door in the location 4,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Cyan Horizontal Door in the location 3,2
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Cyan Horizontal Door in the location 4,2
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Message in the location 3,2
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 1,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 1,2
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 2,2
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 3,2
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 3,3
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 4,3
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Horizontal Wall in the location 1,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Horizontal Wall in the location 2,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Horizontal Wall in the location 3,0
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Horizontal Wall in the location 3,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Horizontal Wall in the location 4,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Player in the location 1,3
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Message in the location 1,3
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new End Point in the location 1,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Message in the location 0,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new End Point in the location 3,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Cyan Key in the location 3,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Message in the location 3,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Red Key in the location 1,4
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Red Key in the location 1,4
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Message in the location 1,4
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Message in the location 1,4
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Green Key in the location 2,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Blue Key in the location 3,5
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Magenta Key in the location 2,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Cyan Key in the location 2,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Magenta Key in the location 2,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Message in the location 2,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Message in the location 2,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Red Key in the location 1,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Green Key in the location 1,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Blue Key in the location 1,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Magenta Key in the location 1,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Cyan Key in the location 1,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Message in the location 1,1
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 1,4
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 1,5
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 3,5
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 1,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 2,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Vertical Wall in the location 3,6
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Horizontal Wall in the location 3,3
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Horizontal Wall in the location 1,3
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Horizontal Wall in the location 1,4
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Horizontal Wall in the location 4,4
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Horizontal Wall in the location 4,5
+May 14, 2022 12:56:19 PM edu.curtin.app.MyMaze readFile
+INFO: Insert a new Horizontal Wall in the location 2,6
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze makeMaze
+INFO: Initiazile 2D String array of size 11 x 29
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorRed to VerticalDoor
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorMagenta to VerticalDoor
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorRed to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorGreen to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorBlue to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorMagenta to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorCyan to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorRed to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorRed to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorGreen to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorYellow to VerticalDoor
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorMagenta to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorCyan to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorMagenta to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorCyan to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorCyan to HorizontalDoor
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorBlue to Key
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorCyan to HorizontalDoor
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorGreen to VerticalDoor
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze simplify
+INFO: Obtained the original object type through casting ColorBlue to HorizontalDoor
+May 14, 2022 12:56:19 PM edu.curtin.app.Maze makeMaze
+INFO: Finished mapping the objects to the String 2D array
